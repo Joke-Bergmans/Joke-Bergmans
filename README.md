@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Joke-Bergmans
+- 🌱 I’m currently learning front-end development in JavaScript, Angular, React and Vue
